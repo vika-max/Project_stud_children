@@ -1,0 +1,5 @@
+/**
+ * Тесты
+ */
+public class TicketDaoTest {
+}
