@@ -1,4 +1,0 @@
-
-enum UserType {
-    TYPE_ADMINISTRATOR, TYPE_TEACHER, TYPE_STUDENT,
-}
