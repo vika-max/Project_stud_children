@@ -37,3 +37,4 @@ public class MyServlet extends HttpServlet {
         out.println("Hello world!");
     }
 }
+
